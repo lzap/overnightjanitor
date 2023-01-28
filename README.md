@@ -4,7 +4,9 @@ A tiny maze cleaning game by lzap.
 
 ![Gameplay preview](preview.gif)
 
-[PLAY IN YOUR BROWSER NOW](https://pillarmaze.zapletalovi.com)
+[PLAY IN YOUR BROWSER NOW](https://overnightjanitor.zapletalovi.com)
+
+Warning: The game is not finished and an error will be showned after you beat the last level.
 
 ## Gameplay
 
