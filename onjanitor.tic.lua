@@ -1,12 +1,11 @@
 --
 -- vim: set shiftwidth=2 tabstop=2 expandtab:
 --
--- title:  pillarmaze
+-- title:  Overnight Janitor
 -- author: lzap
--- desc:   inspired by a minigame from funcade
+-- desc:   Inspired by a minigame from funcade.
 -- script: lua
 --
-
 t=0 -- tick tracker
 total=999 -- total game time until game over
 mn=1 -- current level number
